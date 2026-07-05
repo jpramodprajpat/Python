@@ -1,0 +1,4 @@
+INFO:root:Checking whether 12 is prime
+WARNING:root:factor found 2
+INFO:root:12 is Not Prime
+INFO:root:Program completed

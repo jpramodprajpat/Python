@@ -1,0 +1,7 @@
+INFO:root:Processing each element of list : 1
+INFO:root:Processing each element of list : hello
+INFO:root:Processing each element of list : [3, 'world']
+INFO:root:Processing each element of list : 4
+INFO:root:Processing each element of list : [5, 'python']
+INFO:root:Result : list of integers[1, 4]
+INFO:root:Result : list of String['hello', [3, 'world'], [5, 'python']]

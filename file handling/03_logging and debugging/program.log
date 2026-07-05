@@ -1,0 +1,14 @@
+INFO:root:Processing each element of list : 1
+INFO:root:Processing each element of list : hello
+INFO:root:Processing each element of list : [3, 'world']
+INFO:root:processing sublist : 3
+INFO:root:processing sublist : world
+INFO:root:Processing each element of list : 4
+INFO:root:Processing each element of list : [5, 'python']
+INFO:root:processing sublist : 5
+INFO:root:processing sublist : python
+INFO:root:Result : list of integers[1, 3, 4, 5]
+INFO:root:Result : list of String['hello', 'world', 'python']
+INFO:root:Checking whether 2 is prime
+INFO:root:2 is Prime
+INFO:root:Program completed
